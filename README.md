@@ -4,3 +4,6 @@ a computational study of responses of AdEx-based spiking networks to incoming se
 Here you can find the code to reproduce figure 2 (d) of the paper entitled _"Seizure-like propagation in spiking network models"_ by Damien Depannemaecker, Mallory Carlu and Alain Destexhe 
 
 The code in python use de Brian2 library (https://brian2.readthedocs.io/)
+
+First run _Fig2d_Simulations.py_, outputs files are saved in the _Results_ folder.
+Then run _Fig2d_PlotResults.py_ to get the figure
