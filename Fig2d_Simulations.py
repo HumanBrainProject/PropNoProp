@@ -1,3 +1,9 @@
+############################################################
+# Code prepared by Damien Depannemaecker and Mallory Carlu #
+# associated to the figure 2(d) of the paper entitled:     #
+# Seizure-like propagation in spiking network models       #
+############################################################
+
 
 from brian2 import *
 import numpy as np
