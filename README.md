@@ -7,4 +7,4 @@ The code in python use de Brian2 library (https://brian2.readthedocs.io/)
 
 1- First run _Fig2d_Simulations.py_, outputs files are saved in the _Results_ folder.
 
-2- Then run _Fig2d_PlotResults.py_ to get the figure 
+2- Then run _Fig2d_PlotResults.py_ to plot the figure 
