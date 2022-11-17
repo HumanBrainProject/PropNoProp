@@ -1,7 +1,9 @@
 ############################################################
 # Code prepared by Damien Depannemaecker and Mallory Carlu #
-# associated to the figure 2(d) of the paper entitled:     #
-# Seizure-like propagation in spiking network models       #
+# associated to the figure 4(a) of the paper entitled:     #
+# A model for the propagation of seizure activity          #
+#in normal brain tissue                                    #
+#https://doi.org/10.1523/ENEURO.0234-21.2022               #
 ############################################################
 
 
